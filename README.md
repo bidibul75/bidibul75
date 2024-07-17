@@ -1,5 +1,9 @@
 ## Hi there 👋
+🔭 I’m currently working on :
+- a PHP / JS vanilla website : creating a dynamic behavior in a forum by connecting a websocket,
+- a Flutter calculator website ( calculation.center, currently under construction ) : my personal project, a website that calculates many kind of stuffs like subnets, supernets, etc.
 
+- 🤔 I’m looking for a professional training contract for 1 or 2 years from September 2024 (beginning of my 3rd year of my web developper bachelor at Coding Factory by ESIEE-IT Paris). 
 <!--
 **bidibul75/bidibul75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
