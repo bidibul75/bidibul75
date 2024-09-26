@@ -1,9 +1,9 @@
 ## Hi there 👋
-🔭 I’m currently working on a Flutter calculator website ( calculation.center, currently under construction ) : my personal project, a website that calculates many kind of stuffs like subnets, supernets, etc.
+🔭 I’m currently working on a Flutter calculator website ( calculation.center, currently under construction ) : my personal project, a website that calculates many kind of stuffs like subnets, supernets, etc. Have a look at the repo called calculateurs.
 
 🔭 During my internship I worked on a PHP / JS vanilla website : creating a dynamic behavior in a forum by connecting a Ratchet websocket.
 
-🤔 I’m looking for a professional training contract for 1 or 2 years from September 2024 (beginning of my 3rd year of my web developper bachelor at Coding Factory by ESIEE-IT Paris). 
+🤔 I’m looking for a work-study contract for 1 or 2 years. I began my 3rd year of my web developper bachelor at Coding Factory by ESIEE-IT Paris. 
 
 ⚡ The photo is the Cirque de Gavarnie, and the Gavarnie Falls in it, part of the UNESCO World Heritage Site Pyrénées – Mont Perdu (South West of France).
 
