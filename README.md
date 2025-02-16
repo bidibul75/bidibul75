@@ -1,11 +1,11 @@
 ## Hi there 👋
-🔭 I’m currently working on a Flutter calculator website ( calculation.center, currently under construction ) : my personal project, a website that calculates many kind of stuffs like subnets, supernets, etc. Have a look at the repo called calculateurs.
+🔭 I’m currently working on a Flutter calculator website ( *calculation.center*, currently under construction ) : my personal project, a website that calculates many kind of stuffs like subnets, supernets, etc. Have a look at the repo called calculateurs.
 
-🔭 During my internship I worked on :  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- a PHP / JS vanilla website : creating a dynamic behavior in a forum by connecting a Ratchet websocket,  
+🔭 During my last internship I worked on :  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- a PHP / JS vanilla website : creating a dynamic behavior in a forum by connecting a Ratchet websocket and creation of associated processing in both front-end and back-end,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- a 4D script to extract data from a PostgreSQL database.
 
-🤔 I’m looking for a work-study contract for 1 or 2 years. I began my 3rd year of my web developper bachelor at Coding Factory by ESIEE-IT Paris. 
+🤔 I’m looking for a work-study contract for 1 or 2 years, a final-year internship of 2 to 6 months starting in June and/or a full-time position starting in September. I'm currently in my 3rd year of web development in the *Bachelor développeur de solutions numériques sécurisées* at the Coding Factory by ESIEE-IT Paris. 
 
 ⚡ The photo is the Cirque de Gavarnie, and the Gavarnie Falls in it, part of the UNESCO World Heritage Site Pyrénées – Mont Perdu (South West of France).
 
