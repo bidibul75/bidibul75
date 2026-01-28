@@ -1,9 +1,9 @@
 ## Hi there 👋
 🔭 I’m currently working on a Flutter calculator website ( *calculation.center*, currently under construction ) : my personal project, a website that calculates many kind of stuffs like subnets, supernets, etc. Have a look at the repo called calculateurs.
 
-🔭 During my current internship, I'm working on a React site that's backed by a Firebase database.
+🔭 During my last internship (2025), I worked on a React site that's backed by a Firebase database.
 
-🔭 During my last year internship I worked on :  
+🔭 During my internship in 2024 I worked on :  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- a PHP / JS vanilla website : creating a dynamic behavior in a forum by connecting a Ratchet websocket and creation of associated processing in both front-end and back-end,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- a 4D script to extract data from a PostgreSQL database.
 
