@@ -1,6 +1,8 @@
 ## Hi there 👋
 🔭 I’m currently working on my personal project, a multiple calculators website ( *calculation.center*, currently under construction ) and mobile app, that calculates many kind of stuffs like subnets, supernets, etc.
 
+🔭  I'm wrapping up a freelance project built with the Symfony PHP framework and a MariaDB database : https://lavedan-pays-toy.fr/
+
 🔭 During my last internship (2025), I worked on a React site that's backed by a Firebase database.
 
 🔭 During my internship in 2024 I worked on :  
